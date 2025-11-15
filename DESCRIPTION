@@ -12,7 +12,7 @@ Suggests: mockery, testthat, knitr, rmarkdown
 BugReports: https://github.com/daniel1noble/metaDigitise/issues
 VignetteBuilder: knitr
 NeedsCompilation: no
-Packaged: 2025-11-14 21:39:31 UTC; dannoble
+Packaged: 2025-11-15 21:23:07 UTC; dannoble
 Author: Joel Pick [aut],
   Shinichi Nakagawa [aut],
   Daniel Noble [aut, cre]
